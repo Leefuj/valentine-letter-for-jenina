@@ -232,7 +232,7 @@ h1 {
     font-size: 30px;
     margin: 0;
     animation: titleBounce 1s cubic-bezier(0.68, -0.55, 0.265, 1.55);
-    color: #ff1493;
+    color: whitesmoke;
     text-shadow: 3px 3px 6px rgba(0, 0, 0, 0.3), 0 0 20px rgba(255, 20, 147, 0.5);
     font-weight: bold;
     position: relative;
@@ -705,4 +705,5 @@ p {
     0% { transform: scale(0); opacity: 1; }
     50% { transform: scale(2); opacity: 1; }
     100% { transform: scale(3); opacity: 0; }
+
 }
